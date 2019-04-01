@@ -1,4 +1,4 @@
 first = "Jerome"
 last = "Mohanan"
-full = first + "" + last
+full = f"{first} {last}"
 print(full)
