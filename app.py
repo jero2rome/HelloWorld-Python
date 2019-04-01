@@ -1,9 +1,4 @@
-# \"
-# \'
-# \\
-# \n
-
-message = """Python 
-Programming
-"""
-print(message)
+first = "Jerome"
+last = "Mohanan"
+full = first + "" + last
+print(full)
