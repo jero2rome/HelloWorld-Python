@@ -1,2 +1,5 @@
-students_count = 1000
-print(type(students_count))
+x = [1, 2, 3]
+print(id(x))
+
+x.append(4)
+print(id(x))
